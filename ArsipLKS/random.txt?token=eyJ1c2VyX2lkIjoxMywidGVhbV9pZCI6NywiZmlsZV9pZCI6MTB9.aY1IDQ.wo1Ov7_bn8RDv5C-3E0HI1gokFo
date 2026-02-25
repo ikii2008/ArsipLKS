@@ -1,0 +1,19 @@
+Sebuah sistem menggunakan generator bilangan acak
+yang diimplementasikan secara manual.
+
+Diketahui output berturut-turut:
+
+134
+321
+500
+543
+
+Generator ini menggunakan rumus:
+X(n+1) = (a·Xn + c) mod m
+
+dengan nilai:
+m = 1000
+
+Tugas:
+- Analisis pola generator
+- Tentukan bilangan acak BERIKUTNYA
